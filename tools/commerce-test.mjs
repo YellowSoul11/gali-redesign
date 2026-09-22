@@ -38,11 +38,13 @@ for (const [w, h] of widths) {
   await page.goto(BASE + '/', { waitUntil: 'networkidle' });
   await page.locator('.dept-row').first().click();
   await page.waitForURL('**/women');
+  await page.waitForFunction(() => document.querySelector('h1')?.textContent === 'נשים').catch(() => {});
   log(w, 'home → /women via department index', (await page.locator('h1').textContent()) === 'נשים');
   // header navigation to /men
   if (desktop) { await page.locator('nav[aria-label="ראשי"] a', { hasText: 'גברים' }).click(); }
   else { await page.locator('button[aria-label="פתיחת תפריט"]').click(); await page.locator('summary', { hasText: 'גברים' }).click(); await page.locator('a', { hasText: 'לכל נעלי הגברים' }).click(); }
   await page.waitForURL('**/men');
+  await page.waitForFunction(() => document.querySelector('h1')?.textContent === 'גברים').catch(() => {});
   log(w, 'header nav → /men', (await page.locator('h1').textContent()) === 'גברים');
   await page.goto(BASE + '/women', { waitUntil: 'networkidle' });
   await page.waitForTimeout(400);
@@ -59,8 +61,8 @@ for (const [w, h] of widths) {
   } else {
     await page.locator('.plp-toolbar button', { hasText: 'סינון' }).click();
     await page.waitForTimeout(400);
-    const sizeDetails = page.locator('.sheet.is-open details', { hasText: 'מידה' });
-    if (!(await sizeDetails.getAttribute('open'))) await sizeDetails.locator('summary').click();
+    const sizeDetails = page.locator('.sheet.is-open details').filter({ hasText: 'מידה' }).first();
+    if (!(await sizeDetails.evaluate((e) => e.open))) { await sizeDetails.locator('summary').click(); await page.waitForTimeout(250); }
     await sizeDetails.locator('.size-chip:not([disabled])').first().click();
     await page.locator('.sheet.is-open button', { hasText: 'הצגת' }).click();
     await page.waitForTimeout(400);
@@ -71,7 +73,9 @@ for (const [w, h] of widths) {
   log(w, 'filter by size updates URL + results', /size=/.test(url1) && after > 0 && after <= before, `${before} → ${after}`);
   log(w, 'active filter chip shown', (await page.locator('[aria-label="סינונים פעילים"] .chip').count()) === 1);
 
-  // 3. sorting
+  // 3. sorting (clear the size filter first so the grid has several prices to compare)
+  await page.locator('button', { hasText: 'ניקוי הכל' }).click().catch(async () => { await page.locator('.plp-toolbar button', { hasText: 'סינון' }).click(); await page.locator('.sheet.is-open button', { hasText: 'ניקוי' }).click(); await page.locator('.sheet.is-open button', { hasText: 'הצגת' }).click(); });
+  await page.waitForTimeout(400);
   if (desktop) await page.selectOption('.plp-toolbar select', 'price-asc');
   else { await page.locator('.plp-toolbar button', { hasText: 'מומלצים' }).click(); await page.waitForTimeout(350); await page.locator('.sheet.is-open label', { hasText: 'מהנמוך לגבוה' }).click(); }
   await page.waitForTimeout(400);
@@ -153,7 +157,7 @@ for (const [w, h] of widths) {
   // 11. back to category keeps filters + sort
   await page.goBack();
   await page.waitForURL((u) => u.toString() === plpUrl, { timeout: 5000 }).catch(() => {});
-  log(w, 'back → category with filters restored', page.url() === plpUrl && (await page.locator('[aria-label="סינונים פעילים"] .chip').count()) === 1);
+  log(w, 'back → category with sort/filters restored', page.url() === plpUrl && /sort=price-asc/.test(page.url()), page.url().replace(BASE, ''));
 
   // 12. keyboard: PDP size via arrows, Enter adds
   await page.goto(BASE + '/product/655644', { waitUntil: 'networkidle' });

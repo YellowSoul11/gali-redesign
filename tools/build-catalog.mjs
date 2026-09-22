@@ -110,8 +110,8 @@ async function build(p) {
       code: v.code, sku: v.sku, color: v.color, realUrl: v.realUrl, sizes: v.sizes,
       img: `/assets/opt/p-${base}.webp`, alt: gallerySrc[1] ? `/assets/opt/p-${base}-b.webp` : undefined, gallery,
       desc: pdp.desc || undefined,
-      material: (info.match(/הרכב:\s*(.+?)(?:\s\||\s*$)/) || [])[1]?.trim(),
-      skuLabel: (info.match(/מקט:\s*(\S+)/) || [])[1],
+      material: pdp.material || (info.match(/הרכב:\s*(.+?)(?:\s\||\s*$)/) || [])[1]?.trim(),
+      skuLabel: pdp.skuLabel || (info.match(/מקט:\s*(\S+)/) || [])[1],
     });
   }
   if (!variants.length) return;
@@ -129,5 +129,6 @@ const order = new Map(queue.map((p, i) => [p.id, i]));
 await Promise.all(Array.from({ length: 6 }, async () => { while (queue.length) await build(queue.shift()); }));
 out.sort((a, b) => order.get(a.id) - order.get(b.id));
 fs.writeFileSync('../src/data/catalog.generated.json', JSON.stringify({ crawled: raw.crawled, products: out, subcats: Object.values(subIndex), intros: Object.fromEntries(Object.entries(raw.depts).map(([k, v]) => [k, v.intro])) }));
-fs.appendFileSync('../research/asset-sources.md', `\n\n## Catalog imagery (PLP/PDP), crawled ${raw.crawled}\n\n| Local | Source |\n|---|---|\n` + manifest.map(([l, s]) => `| \`${l}\` | ${s} |`).join('\n'));
+const srcMd = fs.readFileSync('../research/asset-sources.md', 'utf8').split('\n\n## Catalog imagery')[0];
+fs.writeFileSync('../research/asset-sources.md', srcMd + `\n\n## Catalog imagery (PLP/PDP), crawled ${raw.crawled}\n\n| Local | Source |\n|---|---|\n` + manifest.map(([l, s]) => `| \`${l}\` | ${s} |`).join('\n'));
 console.log('products', out.length, 'variants', out.reduce((n, p) => n + p.variants.length, 0), 'subcats', Object.keys(subIndex).length);
