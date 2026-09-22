@@ -1,0 +1,934 @@
+{
+ "products": [
+  {
+   "id": "545209",
+   "category": "women",
+   "url": "https://www.gali.co.il/women/m5452091006",
+   "badge": "SALE",
+   "raw": "GENERAL סנדלי עקב עם רצועות מוצלבות לנשים מחיר מוצר 79.90 ₪ מחיר רגיל 219.90 ₪ OUTLET SALE בז’ שחור",
+   "price": 79.9,
+   "was": 219.9,
+   "promo": null,
+   "image": "/assets/products/545209.jpg",
+   "name": "סנדלי עקב עם רצועות מוצלבות לנשים",
+   "desc": null,
+   "sizes": [
+    "36",
+    "37",
+    "38",
+    "39",
+    "40",
+    "41"
+   ],
+   "alt": "/assets/products/545209-b.jpg"
+  },
+  {
+   "id": "445130",
+   "category": "women",
+   "url": "https://www.gali.co.il/women/m4451301006",
+   "badge": "SALE",
+   "raw": "BRILL COMFORT סנדלי עקב מנצנצים לנשים מחיר מוצר 149.90 ₪ מחיר רגיל 219.90 ₪ FINAL SALE בז’ שחור",
+   "price": 149.9,
+   "was": 219.9,
+   "promo": null,
+   "image": "/assets/products/445130.jpg",
+   "name": "סנדלי עקב מנצנצים לנשים",
+   "desc": null,
+   "sizes": [
+    "36",
+    "37",
+    "38",
+    "39",
+    "40",
+    "41"
+   ],
+   "alt": "/assets/products/445130-b.jpg"
+  },
+  {
+   "id": "449208",
+   "category": "women",
+   "url": "https://www.gali.co.il/women/m4492085224",
+   "badge": "SALE",
+   "raw": "BIANCA BALLTI סנדלי עקב עם אבנים לנשים מחיר מוצר 78.90 ₪ מחיר רגיל 249.90 ₪ FINAL SALE",
+   "price": 78.9,
+   "was": 249.9,
+   "promo": null,
+   "image": "/assets/products/449208.jpg"
+  },
+  {
+   "id": "542087",
+   "category": "women",
+   "url": "https://www.gali.co.il/women/m5420875224",
+   "badge": "SALE",
+   "raw": "EASY SPIRIT נעלי ספורט נוחות סוליה מחוררת לנשים מחיר מוצר 149.90 ₪ מחיר רגיל 449.90 ₪ OUTLET SALE שחור ירוק בהיר",
+   "price": 149.9,
+   "was": 449.9,
+   "promo": null,
+   "image": "/assets/products/542087.jpg"
+  },
+  {
+   "id": "542090",
+   "category": "women",
+   "url": "https://www.gali.co.il/women/m5420905224",
+   "badge": "SALE",
+   "raw": "EASY SPIRIT נעלי ג’וגינג עם סוליה מחוררת לנשים מחיר מוצר 199.90 ₪ מחיר רגיל 449.90 ₪ OUTLET SALE שחור תכלת",
+   "price": 199.9,
+   "was": 449.9,
+   "promo": null,
+   "image": "/assets/products/542090.jpg"
+  },
+  {
+   "id": "542096",
+   "category": "women",
+   "url": "https://www.gali.co.il/women/m5420961201",
+   "badge": "SALE",
+   "raw": "EASY SPIRIT נעלי מוקסין לנשים מחיר מוצר 149.90 ₪ מחיר רגיל 449.90 ₪ OUTLET SALE נייבי טבעי",
+   "price": 149.9,
+   "was": 449.9,
+   "promo": null,
+   "image": "/assets/products/542096.jpg"
+  },
+  {
+   "id": "545270",
+   "category": "women",
+   "url": "https://www.gali.co.il/women/m5452701201",
+   "badge": "SALE",
+   "raw": "BRILL COMFORT כפכפי טבע עם אבזמים לנשים מחיר מוצר 99.90 ₪ מחיר רגיל 199.90 ₪ OUTLET SALE נייבי ברונזה",
+   "price": 99.9,
+   "was": 199.9,
+   "promo": null,
+   "image": "/assets/products/545270.jpg"
+  },
+  {
+   "id": "542138",
+   "category": "women",
+   "url": "https://www.gali.co.il/women/m5421381900",
+   "badge": "SALE",
+   "raw": "LIGHT EASY כפכפי נוחות בשני גוונים לנשים מחיר מוצר 99.90 ₪ מחיר רגיל 199.90 ₪ OUTLET SALE ורוד שחור ירוק",
+   "price": 99.9,
+   "was": 199.9,
+   "promo": null,
+   "image": "/assets/products/542138.jpg"
+  },
+  {
+   "id": "154077",
+   "category": "men",
+   "url": "https://www.gali.co.il/men/m1540775224",
+   "badge": null,
+   "raw": "HUSH PUPPIES נעלי נוחות קלאסיות מחיר מוצר 399.90 ₪ שחור חום",
+   "price": 399.9,
+   "was": null,
+   "promo": null,
+   "image": "/assets/products/154077.jpg",
+   "name": "נעלי נוחות קלאסיות",
+   "desc": null,
+   "sizes": [
+    "40",
+    "41",
+    "42",
+    "43",
+    "44",
+    "45",
+    "46"
+   ],
+   "alt": "/assets/products/154077-b.jpg"
+  },
+  {
+   "id": "544186",
+   "category": "men",
+   "url": "https://www.gali.co.il/men/m5441865224",
+   "badge": "SALE",
+   "raw": "HUSH PUPPIES נעליים אלגנטיות עם שרוכים לגברים HUSH PUPPIES מחיר מוצר 299.90 ₪ מחיר רגיל 399.90 ₪ FINAL SALE שחור חום חום",
+   "price": 299.9,
+   "was": 399.9,
+   "promo": null,
+   "image": "/assets/products/544186.jpg",
+   "name": "נעליים אלגנטיות עם שרוכים לגברים HUSH PUPPIES",
+   "desc": null,
+   "sizes": [
+    "39",
+    "40",
+    "41",
+    "42",
+    "43",
+    "44",
+    "45",
+    "46",
+    "47"
+   ],
+   "alt": "/assets/products/544186-b.jpg"
+  },
+  {
+   "id": "544183",
+   "category": "men",
+   "url": "https://www.gali.co.il/men/m5441835224",
+   "badge": "SALE",
+   "raw": "HUSH PUPPIES נעליים אלגנטיות עם שרוכים לגברים מחיר מוצר 299.90 ₪ מחיר רגיל 399.90 ₪ FINAL SALE שחור חום",
+   "price": 299.9,
+   "was": 399.9,
+   "promo": null,
+   "image": "/assets/products/544183.jpg"
+  },
+  {
+   "id": "544184",
+   "category": "men",
+   "url": "https://www.gali.co.il/men/m5441845224",
+   "badge": "SALE",
+   "raw": "HUSH PUPPIES נעלי נוחות גזרת סירה לגברים HUSH PUPPIES מחיר מוצר 299.90 ₪ מחיר רגיל 399.90 ₪ FINAL SALE שחור חום חום",
+   "price": 299.9,
+   "was": 399.9,
+   "promo": null,
+   "image": "/assets/products/544184.jpg"
+  },
+  {
+   "id": "544190",
+   "category": "men",
+   "url": "https://www.gali.co.il/men/m5441901400",
+   "badge": "SALE",
+   "raw": "HUSH PUPPIES נעליים אלגנטיות בדוגמא מחוררת לגברים HUSH PUPPIES מחיר מוצר 199.90 ₪ מחיר רגיל 399.90 ₪ FINAL SALE חום חום ",
+   "price": 199.9,
+   "was": 399.9,
+   "promo": null,
+   "image": "/assets/products/544190.jpg"
+  },
+  {
+   "id": "644109",
+   "category": "men",
+   "url": "https://www.gali.co.il/men/m6441095249",
+   "badge": "SALE",
+   "raw": "HUSH PUPPIES נעלי נוחות לגברים בעיצוב אלגנטי ללא שרוכים מחיר מוצר 199.90 ₪ מחיר רגיל 399.90 ₪ FINAL SALE תן שחור",
+   "price": 199.9,
+   "was": 399.9,
+   "promo": null,
+   "image": "/assets/products/644109.jpg"
+  },
+  {
+   "id": "544189",
+   "category": "men",
+   "url": "https://www.gali.co.il/men/m5441895009",
+   "badge": "SALE",
+   "raw": "HUSH PUPPIES נעליים אלגנטית ועם סוליית טרקטור לגברים HUSH PUPPIES מחיר מוצר 299.90 ₪ מחיר רגיל 419.90 ₪ FINAL SALE חום ש",
+   "price": 299.9,
+   "was": 419.9,
+   "promo": null,
+   "image": "/assets/products/544189.jpg"
+  },
+  {
+   "id": "544188",
+   "category": "men",
+   "url": "https://www.gali.co.il/men/m5441885009",
+   "badge": "SALE",
+   "raw": "HUSH PUPPIES נעלי מוקסין עם סוליית טרקטור לגברים HUSH PUPPIES מחיר מוצר 299.90 ₪ מחיר רגיל 419.90 ₪ FINAL SALE חום שחור ",
+   "price": 299.9,
+   "was": 419.9,
+   "promo": null,
+   "image": "/assets/products/544188.jpg"
+  },
+  {
+   "id": "544185",
+   "category": "men",
+   "url": "https://www.gali.co.il/men/m5441855009",
+   "badge": "SALE",
+   "raw": "HUSH PUPPIES נעלי נוחות גזרת סירה לגברים HUSH PUPPIES מחיר מוצר 299.90 ₪ מחיר רגיל 399.90 ₪ FINAL SALE חום שחור",
+   "price": 299.9,
+   "was": 399.9,
+   "promo": null,
+   "image": "/assets/products/544185.jpg"
+  },
+  {
+   "id": "547091",
+   "category": "girls",
+   "url": "https://www.gali.co.il/girls/m5470911900",
+   "badge": "SALE",
+   "raw": "CHICOS סנדלי ילדות דוגמת פרפרים מחיר מוצר 98.90 ₪ מחיר רגיל 219.90 ₪ FINAL SALE",
+   "price": 98.9,
+   "was": 219.9,
+   "promo": null,
+   "image": "/assets/products/547091.jpg",
+   "name": "סנדלי ילדות דוגמת פרפרים",
+   "desc": null,
+   "sizes": [
+    "20",
+    "21",
+    "22",
+    "23"
+   ],
+   "alt": "/assets/products/547091-b.jpg"
+  },
+  {
+   "id": "547100",
+   "category": "girls",
+   "url": "https://www.gali.co.il/girls/m5471005224",
+   "badge": "SALE",
+   "raw": "LEE COOPER סנדלי יהלומים מטאליים לילדות מחיר מוצר 98.90 ₪ מחיר רגיל 219.90 ₪ FINAL SALE שחור כסף",
+   "price": 98.9,
+   "was": 219.9,
+   "promo": null,
+   "image": "/assets/products/547100.jpg",
+   "name": "סנדלי יהלומים מטאליים לילדות",
+   "desc": null,
+   "sizes": [
+    "30",
+    "31",
+    "32",
+    "33",
+    "34",
+    "35"
+   ],
+   "alt": "/assets/products/547100-b.jpg"
+  },
+  {
+   "id": "447020",
+   "category": "girls",
+   "url": "https://www.gali.co.il/girls/m4470205224",
+   "badge": "SALE",
+   "raw": "LEE COOPER סנדלי רצועות אלסטיות לילדות מחיר מוצר 78.90 ₪ מחיר רגיל 219.90 ₪ FINAL SALE שחור ורוד",
+   "price": 78.9,
+   "was": 219.9,
+   "promo": null,
+   "image": "/assets/products/447020.jpg"
+  },
+  {
+   "id": "647683",
+   "category": "girls",
+   "url": "https://www.gali.co.il/girls/m6476831900",
+   "badge": "NEW",
+   "raw": "GALI נעלי סניקרס בדוגמת פרוזן לילדות מחיר מוצר 199.90 ₪ זוג שני ב 59.90 ורוד כחול",
+   "price": 199.9,
+   "was": null,
+   "promo": "זוג שני ב-59.90",
+   "image": "/assets/products/647683.jpg"
+  },
+  {
+   "id": "647680",
+   "category": "girls",
+   "url": "https://www.gali.co.il/girls/m6476801000",
+   "badge": "NEW",
+   "raw": "LA GEAR נעלי ספורט עם שרוכים אלסטיים וסגירת ולקרו מחיר מוצר 199.90 ₪ זוג שני ב 59.90 לבן ורוד",
+   "price": 199.9,
+   "was": null,
+   "promo": "זוג שני ב-59.90",
+   "image": "/assets/products/647680.jpg"
+  },
+  {
+   "id": "647681",
+   "category": "girls",
+   "url": "https://www.gali.co.il/girls/m6476811025",
+   "badge": "NEW",
+   "raw": "LEE COOPER נעלי ” סקט” עם סגירת ולקרו לבנות מחיר מוצר 199.90 ₪ זוג שני ב 59.90",
+   "price": 199.9,
+   "was": null,
+   "promo": "זוג שני ב-59.90",
+   "image": "/assets/products/647681.jpg"
+  },
+  {
+   "id": "450509",
+   "category": "girls",
+   "url": "https://www.gali.co.il/girls/m4505091017",
+   "badge": "SALE",
+   "raw": "EMILY נעלי בובה מבריקות לילדות מחיר מוצר 99.90 ₪ מחיר רגיל 149.90 ₪ OUTLET SALE off white שחור",
+   "price": 99.9,
+   "was": 149.9,
+   "promo": null,
+   "image": "/assets/products/450509.jpg"
+  },
+  {
+   "id": "450516",
+   "category": "girls",
+   "url": "https://www.gali.co.il/girls/m4505165224",
+   "badge": "SALE",
+   "raw": "EMILY נעלי בובה עם פפיון לילדות מחיר מוצר 99.90 ₪ מחיר רגיל 149.90 ₪ OUTLET SALE שחור ורוד off white",
+   "price": 99.9,
+   "was": 149.9,
+   "promo": null,
+   "image": "/assets/products/450516.jpg"
+  },
+  {
+   "id": "547075",
+   "category": "girls",
+   "url": "https://www.gali.co.il/girls/m5470755224",
+   "badge": "SALE",
+   "raw": "GALI סנדלי גלדיאטור זהב לילדות מחיר מוצר 79.90 ₪ מחיר רגיל 219.90 ₪ OUTLET SALE שחור",
+   "price": 79.9,
+   "was": 219.9,
+   "promo": null,
+   "image": "/assets/products/547075.jpg"
+  },
+  {
+   "id": "656642",
+   "category": "boys",
+   "url": "https://www.gali.co.il/boys/m6566421101",
+   "badge": "NEW",
+   "raw": "SPIDER MAN נעלי ספורט בעיצוב גיבור-העל ספיידרמן מחיר מוצר 199.90 ₪ זוג שני ב 59.90",
+   "price": 199.9,
+   "was": null,
+   "promo": "זוג שני ב-59.90",
+   "image": "/assets/products/656642.jpg",
+   "name": "נעלי ספורט בעיצוב גיבור-העל ספיידרמן",
+   "desc": null,
+   "sizes": [
+    "25",
+    "26",
+    "27",
+    "28",
+    "29",
+    "30",
+    "31",
+    "32",
+    "33"
+   ],
+   "alt": "/assets/products/656642-b.jpg"
+  },
+  {
+   "id": "656648",
+   "category": "boys",
+   "url": "https://www.gali.co.il/boys/m6566481201",
+   "badge": "NEW",
+   "raw": "SONIC נעלי ספורט בעיצוב סוניק מחיר מוצר 199.90 ₪ זוג שני ב 59.90",
+   "price": 199.9,
+   "was": null,
+   "promo": "זוג שני ב-59.90",
+   "image": "/assets/products/656648.jpg",
+   "name": "נעלי ספורט בעיצוב סוניק",
+   "desc": null,
+   "sizes": [
+    "25",
+    "26",
+    "27",
+    "28",
+    "29",
+    "30",
+    "31",
+    "32",
+    "33"
+   ],
+   "alt": "/assets/products/656648-b.jpg"
+  },
+  {
+   "id": "656647",
+   "category": "boys",
+   "url": "https://www.gali.co.il/boys/m6566471201",
+   "badge": "NEW",
+   "raw": "SONIC נעלי ספורט בעיצוב סוניק מחיר מוצר 199.90 ₪ זוג שני ב 59.90",
+   "price": 199.9,
+   "was": null,
+   "promo": "זוג שני ב-59.90",
+   "image": "/assets/products/656647.jpg"
+  },
+  {
+   "id": "656645",
+   "category": "boys",
+   "url": "https://www.gali.co.il/boys/m6566451201",
+   "badge": "NEW",
+   "raw": "SPIDER MAN נעלי ספורט בעיצוב גיבור-העל ספיידרמן מחיר מוצר 199.90 ₪ זוג שני ב 59.90",
+   "price": 199.9,
+   "was": null,
+   "promo": "זוג שני ב-59.90",
+   "image": "/assets/products/656645.jpg"
+  },
+  {
+   "id": "656650",
+   "category": "boys",
+   "url": "https://www.gali.co.il/boys/m6566501101",
+   "badge": "NEW",
+   "raw": "POKIMON עלי סקייט בייבי פוקימון לבנים מחיר מוצר 199.90 ₪ זוג שני ב 59.90",
+   "price": 199.9,
+   "was": null,
+   "promo": "זוג שני ב-59.90",
+   "image": "/assets/products/656650.jpg"
+  },
+  {
+   "id": "656646",
+   "category": "boys",
+   "url": "https://www.gali.co.il/boys/m6566461201",
+   "badge": "NEW",
+   "raw": "SONIC נעלי ספורט אורות סוניק לבנים מחיר מוצר 199.90 ₪ זוג שני ב 59.90",
+   "price": 199.9,
+   "was": null,
+   "promo": "זוג שני ב-59.90",
+   "image": "/assets/products/656646.jpg"
+  },
+  {
+   "id": "656652",
+   "category": "boys",
+   "url": "https://www.gali.co.il/boys/m6566521201",
+   "badge": "NEW",
+   "raw": "POKIMON נעלי ספורט בעיצוב פיקאצ’ו מחיר מוצר 199.90 ₪ זוג שני ב 59.90",
+   "price": 199.9,
+   "was": null,
+   "promo": "זוג שני ב-59.90",
+   "image": "/assets/products/656652.jpg"
+  },
+  {
+   "id": "656649",
+   "category": "boys",
+   "url": "https://www.gali.co.il/boys/m6566491200",
+   "badge": "NEW",
+   "raw": "SONIC נעלי ספורט בעיצוב פיקאצ’ו מחיר מוצר 199.90 ₪ זוג שני ב 59.90",
+   "price": 199.9,
+   "was": null,
+   "promo": "זוג שני ב-59.90",
+   "image": "/assets/products/656649.jpg"
+  },
+  {
+   "id": "646671",
+   "category": "boys",
+   "url": "https://www.gali.co.il/boys/m6466711201",
+   "badge": "NEW",
+   "raw": "SUPERMAN נעלי סניקרס לילדים בהדפס גיבורי על מחיר מוצר 199.90 ₪ זוג שני ב 59.90",
+   "price": 199.9,
+   "was": null,
+   "promo": "זוג שני ב-59.90",
+   "image": "/assets/products/646671.jpg"
+  },
+  {
+   "id": "646672",
+   "category": "boys",
+   "url": "https://www.gali.co.il/boys/m6466725224",
+   "badge": "NEW",
+   "raw": "BATMAN נעלי סניקרס לילדים בהדפס גיבורי על מחיר מוצר 199.90 ₪ זוג שני ב 59.90",
+   "price": 199.9,
+   "was": null,
+   "promo": "זוג שני ב-59.90",
+   "image": "/assets/products/646672.jpg"
+  },
+  {
+   "id": "640060",
+   "category": "boys",
+   "url": "https://www.gali.co.il/boys/m6400601007",
+   "badge": "NEW",
+   "raw": "CHAMPION נעלי סניקרס אופנתיות CHAMPION לילדים מחיר מוצר 249.90 ₪ זוג שני ב 59.90 לבן+שחור",
+   "price": 249.9,
+   "was": null,
+   "promo": "זוג שני ב-59.90",
+   "image": "/assets/products/640060.jpg"
+  },
+  {
+   "id": "646678",
+   "category": "boys",
+   "url": "https://www.gali.co.il/boys/m6466781201",
+   "badge": "NEW",
+   "raw": "GALI נעלי ג’וגינג לילדים מחיר מוצר 199.90 ₪ זוג שני ב 59.90",
+   "price": 199.9,
+   "was": null,
+   "promo": "זוג שני ב-59.90",
+   "image": "/assets/products/646678.jpg"
+  },
+  {
+   "id": "656643",
+   "category": "new",
+   "url": "https://www.gali.co.il/new/m6566431101",
+   "badge": "NEW",
+   "raw": "SPIDER MAN נעלי ספורט בעיצוב גיבור-העל ספיידרמן מחיר מוצר 199.90 ₪ זוג שני ב 59.90 שחור+אדום נייבי",
+   "price": 199.9,
+   "was": null,
+   "promo": "זוג שני ב-59.90",
+   "image": "/assets/products/656643.jpg",
+   "name": "נעלי ספורט בעיצוב גיבור-העל ספיידרמן",
+   "desc": null,
+   "sizes": [
+    "25",
+    "26",
+    "27",
+    "28",
+    "29",
+    "30",
+    "31",
+    "32",
+    "33"
+   ],
+   "alt": "/assets/products/656643-b.jpg"
+  },
+  {
+   "id": "657630",
+   "category": "new",
+   "url": "https://www.gali.co.il/new/m6576301901",
+   "badge": "NEW",
+   "raw": "STITCH נעלי ספורט בעיצוב סטיץ’ ואנג’ל מחיר מוצר 199.90 ₪ זוג שני ב 59.90",
+   "price": 199.9,
+   "was": null,
+   "promo": "זוג שני ב-59.90",
+   "image": "/assets/products/657630.jpg"
+  },
+  {
+   "id": "657629",
+   "category": "new",
+   "url": "https://www.gali.co.il/new/m6576291900",
+   "badge": "NEW",
+   "raw": "STITCH נעלי ספורט בעיצוב אנג’ל מחיר מוצר 199.90 ₪ זוג שני ב 59.90",
+   "price": 199.9,
+   "was": null,
+   "promo": "זוג שני ב-59.90",
+   "image": "/assets/products/657629.jpg"
+  },
+  {
+   "id": "457060",
+   "category": "new",
+   "url": "https://www.gali.co.il/new/m4570601900",
+   "badge": "NEW",
+   "raw": "CHICOS מגפוני צ’לסי עם פרח לילדות מחיר מוצר 199.90 ₪ NEW COLLECTION ורוד שחור",
+   "price": 199.9,
+   "was": null,
+   "promo": null,
+   "image": "/assets/products/457060.jpg"
+  },
+  {
+   "id": "557112",
+   "category": "new",
+   "url": "https://www.gali.co.il/new/m5571125057",
+   "badge": "NEW",
+   "raw": "CHICOS מגפוני לק שחורים עם לב מנצנץ לבנות מחיר מוצר 199.90 ₪ NEW COLLECTION ורוד בהיר שחור",
+   "price": 199.9,
+   "was": null,
+   "promo": null,
+   "image": "/assets/products/557112.jpg"
+  },
+  {
+   "id": "655653",
+   "category": "new",
+   "url": "https://www.gali.co.il/new/m6556531400",
+   "badge": "NEW",
+   "raw": "LEE COOPER נעלי סניקרס אופנתיות לנשים LEE COOPER מחיר מוצר 249.90 ₪ זוג שני ב 59.90 חום בז’",
+   "price": 249.9,
+   "was": null,
+   "promo": "זוג שני ב-59.90",
+   "image": "/assets/products/655653.jpg"
+  },
+  {
+   "id": "655642",
+   "category": "new",
+   "url": "https://www.gali.co.il/new/m6556421400",
+   "badge": "NEW",
+   "raw": "LEE COOPER סניקרס פסים אופנתי לנשים מחיר מוצר 249.90 ₪ זוג שני ב 59.90 חום בז’",
+   "price": 249.9,
+   "was": null,
+   "promo": "זוג שני ב-59.90",
+   "image": "/assets/products/655642.jpg"
+  },
+  {
+   "id": "655643",
+   "category": "new",
+   "url": "https://www.gali.co.il/new/m6556431006",
+   "badge": "NEW",
+   "raw": "LEE COOPER סניקרס ספורט אופנתי לנשים מחיר מוצר 249.90 ₪ זוג שני ב 59.90 בז’ חום",
+   "price": 249.9,
+   "was": null,
+   "promo": "זוג שני ב-59.90",
+   "image": "/assets/products/655643.jpg"
+  },
+  {
+   "id": "655644",
+   "category": "new",
+   "url": "https://www.gali.co.il/new/m6556441006",
+   "badge": "NEW",
+   "raw": "LEE COOPER סניקרס סטייל אורבני לנשים מחיר מוצר 249.90 ₪ זוג שני ב 59.90",
+   "price": 249.9,
+   "was": null,
+   "promo": "זוג שני ב-59.90",
+   "image": "/assets/products/655644.jpg"
+  },
+  {
+   "id": "542210",
+   "category": "sale",
+   "url": "https://www.gali.co.il/sale/m5422105224",
+   "badge": "SALE",
+   "raw": "BIANCA BALLTI סנדל אצבע בעיצוב ” טבע” אנטומי לנשים מחיר מוצר 99.90 ₪ מחיר רגיל 199.90 ₪ OUTLET SALE שחור פיוטר",
+   "price": 99.9,
+   "was": 199.9,
+   "promo": null,
+   "image": "/assets/products/542210.jpg",
+   "name": "סנדל אצבע בעיצוב ” טבע” אנטומי לנשים",
+   "desc": null,
+   "sizes": [
+    "36",
+    "37",
+    "38",
+    "39",
+    "40",
+    "41"
+   ],
+   "alt": "/assets/products/542210-b.jpg"
+  },
+  {
+   "id": "445175",
+   "category": "sale",
+   "url": "https://www.gali.co.il/sale/m4451755224",
+   "badge": "SALE",
+   "raw": "XTI כפכפי אספדריל לנשים מחיר מוצר 49.90 ₪ מחיר רגיל 249.90 ₪ OUTLET SALE שחור לבן",
+   "price": 49.9,
+   "was": 249.9,
+   "promo": null,
+   "image": "/assets/products/445175.jpg"
+  },
+  {
+   "id": "542143",
+   "category": "sale",
+   "url": "https://www.gali.co.il/sale/m5421435224",
+   "badge": "SALE",
+   "raw": "LIGHT EASY כפכפי רצועות עם ניטים לנשים מחיר מוצר 99.90 ₪ מחיר רגיל 199.90 ₪ OUTLET SALE שחור לבן",
+   "price": 99.9,
+   "was": 199.9,
+   "promo": null,
+   "image": "/assets/products/542143.jpg"
+  },
+  {
+   "id": "540045",
+   "category": "sale",
+   "url": "https://www.gali.co.il/sale/m5400455202",
+   "badge": "SALE",
+   "raw": "ZOEE סנדלי טבע מטאליים לילדות מחיר מוצר 99.90 ₪ מחיר רגיל 199.90 ₪ OUTLET SALE כסף זהב ורוד כחול",
+   "price": 99.9,
+   "was": 199.9,
+   "promo": null,
+   "image": "/assets/products/540045.jpg"
+  },
+  {
+   "id": "545240",
+   "category": "sale",
+   "url": "https://www.gali.co.il/sale/m5452405202",
+   "badge": "SALE",
+   "raw": "GENERAL סנדלים מטאליים עם אבנים לנשים מחיר מוצר 79.90 ₪ מחיר רגיל 199.90 ₪ OUTLET SALE כסף שחור",
+   "price": 79.9,
+   "was": 199.9,
+   "promo": null,
+   "image": "/assets/products/545240.jpg"
+  },
+  {
+   "id": "539991",
+   "category": "accessories",
+   "url": "https://www.gali.co.il/catalog/product/view/id/1020824/s/m5399915224/category/887/",
+   "badge": null,
+   "raw": "BRILL ACCESSORY מארז גרבי גברים איכותיים SOL מחיר מוצר 99.90 ₪",
+   "price": 99.9,
+   "was": null,
+   "promo": null,
+   "image": "/assets/products/539991.jpg"
+  },
+  {
+   "id": "539926",
+   "category": "accessories",
+   "url": "https://www.gali.co.il/catalog/product/view/id/1020823/s/m5399261500/category/887/",
+   "badge": null,
+   "raw": "BRILL ACCESSORY גוזיית משולשים מחיר מוצר 69.90 ₪ אפור שחור לבן",
+   "price": 69.9,
+   "was": null,
+   "promo": null,
+   "image": "/assets/products/539926.jpg"
+  },
+  {
+   "id": "539251",
+   "category": "accessories",
+   "url": "https://www.gali.co.il/catalog/product/view/id/1002726/s/m5392511100/category/887/",
+   "badge": null,
+   "raw": "SUMMER זוג גופיות סבא חלק גבר מחיר מוצר 39.90 ₪",
+   "price": 39.9,
+   "was": null,
+   "promo": null,
+   "image": "/assets/products/539251.jpg"
+  },
+  {
+   "id": "539250",
+   "category": "accessories",
+   "url": "https://www.gali.co.il/catalog/product/view/id/1002725/s/m5392501000/category/887/",
+   "badge": null,
+   "raw": "SUMMER זוג גופיות ריב חלק פסים גבר מחיר מוצר 39.90 ₪",
+   "price": 39.9,
+   "was": null,
+   "promo": null,
+   "image": "/assets/products/539250.jpg"
+  },
+  {
+   "id": "639990",
+   "category": "accessories",
+   "url": "https://www.gali.co.il/catalog/product/view/id/982320/s/m6399901000/category/887/",
+   "badge": "SALE",
+   "raw": "GENERAL גופיה ציצית דרייפיט מחיר מוצר 44.95 ₪ מחיר רגיל 89.90 ₪ FINAL SALE לבן חאקי",
+   "price": 44.95,
+   "was": 89.9,
+   "promo": null,
+   "image": "/assets/products/639990.jpg"
+  },
+  {
+   "id": "539942",
+   "category": "accessories",
+   "url": "https://www.gali.co.il/catalog/product/view/id/980103/s/539942100199/category/887/",
+   "badge": null,
+   "raw": "BRILL ACCESSORY מגבת גוף 70/130 מחיר מוצר 69.90 ₪",
+   "price": 69.9,
+   "was": null,
+   "promo": null,
+   "image": "/assets/products/539942.jpg"
+  },
+  {
+   "id": "539941",
+   "category": "accessories",
+   "url": "https://www.gali.co.il/catalog/product/view/id/980102/s/539941101699/category/887/",
+   "badge": null,
+   "raw": "BRILL ACCESSORY מגבת גוף 70/130 מחיר מוצר 69.90 ₪",
+   "price": 69.9,
+   "was": null,
+   "promo": null,
+   "image": "/assets/products/539941.jpg"
+  },
+  {
+   "id": "539940",
+   "category": "accessories",
+   "url": "https://www.gali.co.il/catalog/product/view/id/980101/s/539940160299/category/887/",
+   "badge": null,
+   "raw": "SUMMER מגבת גוף 70/130 מחיר מוצר 69.90 ₪",
+   "price": 69.9,
+   "was": null,
+   "promo": null,
+   "image": "/assets/products/539940.jpg"
+  },
+  {
+   "id": "539939",
+   "category": "accessories",
+   "url": "https://www.gali.co.il/catalog/product/view/id/980100/s/539939120299/category/887/",
+   "badge": null,
+   "raw": "BRILL ACCESSORY מגבת גוף 70/130 מחיר מוצר 69.90 ₪",
+   "price": 69.9,
+   "was": null,
+   "promo": null,
+   "image": "/assets/products/539939.jpg"
+  },
+  {
+   "id": "539938",
+   "category": "accessories",
+   "url": "https://www.gali.co.il/catalog/product/view/id/980099/s/539938100199/category/887/",
+   "badge": null,
+   "raw": "BRILL ACCESSORY מגבת פנים 50/80 מחיר מוצר 69.90 ₪",
+   "price": 69.9,
+   "was": null,
+   "promo": null,
+   "image": "/assets/products/539938.jpg"
+  }
+ ],
+ "brands": [
+  {
+   "src": "https://www.gali.co.il/pub/media/catalog/category/gali.jpg",
+   "alt": "",
+   "local": "/assets/brands/gali.jpg"
+  },
+  {
+   "src": "https://www.gali.co.il/pub/media/catalog/category/athletics.jpeg",
+   "alt": "",
+   "local": "/assets/brands/athletics.jpeg"
+  },
+  {
+   "src": "https://www.gali.co.il/pub/media/catalog/category/brillcomfort.jpeg",
+   "alt": "",
+   "local": "/assets/brands/brillcomfort.jpeg"
+  },
+  {
+   "src": "https://www.gali.co.il/pub/media/catalog/category/2022_11_15-Brill-Design-Web-Logos-03.png",
+   "alt": "",
+   "local": "/assets/brands/2022_11_15-brill-design-web-logos-03.png"
+  },
+  {
+   "src": "https://www.gali.co.il/pub/media/catalog/category/jessigirl.png",
+   "alt": "",
+   "local": "/assets/brands/jessigirl.png"
+  },
+  {
+   "src": "https://www.gali.co.il/pub/media/catalog/category/studio56.png",
+   "alt": "",
+   "local": "/assets/brands/studio56.png"
+  },
+  {
+   "src": "https://www.gali.co.il/pub/media/catalog/category/lagear.jpeg",
+   "alt": "",
+   "local": "/assets/brands/lagear.jpeg"
+  },
+  {
+   "src": "https://www.gali.co.il/pub/media/catalog/category/polo.png",
+   "alt": "",
+   "local": "/assets/brands/polo.png"
+  },
+  {
+   "src": "https://www.gali.co.il/pub/media/catalog/category/SMALL.png",
+   "alt": "",
+   "local": "/assets/brands/small.png"
+  },
+  {
+   "src": "https://www.gali.co.il/pub/media/catalog/category/different.jpeg",
+   "alt": "",
+   "local": "/assets/brands/different.jpeg"
+  },
+  {
+   "src": "https://www.gali.co.il/pub/media/catalog/category/2022_11_15-Brill-Design-Web-Logos-01-02.png",
+   "alt": "",
+   "local": "/assets/brands/2022_11_15-brill-design-web-logos-01-02.png"
+  },
+  {
+   "src": "https://www.gali.co.il/pub/media/catalog/category/trak.jpeg",
+   "alt": "",
+   "local": "/assets/brands/trak.jpeg"
+  },
+  {
+   "src": "https://www.gali.co.il/pub/media/catalog/category/0001_1.jpeg",
+   "alt": "",
+   "local": "/assets/brands/0001_1.jpeg"
+  },
+  {
+   "src": "https://www.gali.co.il/pub/media/catalog/category/easyspirit_1.png",
+   "alt": "",
+   "local": "/assets/brands/easyspirit_1.png"
+  },
+  {
+   "src": "https://www.gali.co.il/pub/media/catalog/category/lumberjack_logo.jpeg",
+   "alt": "",
+   "local": "/assets/brands/lumberjack_logo.jpeg"
+  },
+  {
+   "src": "https://www.gali.co.il/pub/media/catalog/category/dockers.png",
+   "alt": "",
+   "local": "/assets/brands/dockers.png"
+  },
+  {
+   "src": "https://www.gali.co.il/pub/media/catalog/category/cat.png",
+   "alt": "",
+   "local": "/assets/brands/cat.png"
+  },
+  {
+   "src": "https://www.gali.co.il/pub/media/catalog/category/hushpuppies.png",
+   "alt": "",
+   "local": "/assets/brands/hushpuppies.png"
+  },
+  {
+   "src": "https://www.gali.co.il/pub/media/catalog/category/johngraham.jpg",
+   "alt": "",
+   "local": "/assets/brands/johngraham.jpg"
+  },
+  {
+   "src": "https://www.gali.co.il/pub/media/catalog/category/LOGO-SOURCE-1.png",
+   "alt": "",
+   "local": "/assets/brands/logo-source-1.png"
+  },
+  {
+   "src": "https://www.gali.co.il/pub/media/catalog/category/Moran-shoes.png",
+   "alt": "",
+   "local": "/assets/brands/moran-shoes.png"
+  },
+  {
+   "src": "https://www.gali.co.il/pub/media/catalog/category/Xti-Logo.png",
+   "alt": "",
+   "local": "/assets/brands/xti-logo.png"
+  },
+  {
+   "src": "https://www.gali.co.il/pub/media/catalog/category/154210.jpg",
+   "alt": "",
+   "local": "/assets/brands/154210.jpg"
+  },
+  {
+   "src": "https://www.gali.co.il/pub/media/catalog/category/nautica.png",
+   "alt": "",
+   "local": "/assets/brands/nautica.png"
+  },
+  {
+   "src": "https://www.gali.co.il/pub/media/catalog/category/bb.png",
+   "alt": "",
+   "local": "/assets/brands/bb.png"
+  }
+ ]
+}
